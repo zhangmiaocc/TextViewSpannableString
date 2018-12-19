@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dip"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/tv_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dip"
+                android:text="Hello World!"
+                android:textSize="20dip"/>
+
+            <TextView
+                android:id="@+id/tv_text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dip"
+                android:text="Hello World!"
+                android:textSize="20dip"/>
+
+            <TextView
+                android:id="@+id/tv_text3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dip"
+                android:text="Hello World!"
+                android:textSize="20dip"/>
+
+            <TextView
+                android:id="@+id/tv_text4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dip"
+                android:text="Hello World!"
+                android:textSize="20dip"/>
+
+            <TextView
+                android:id="@+id/tv_text5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dip"
+                android:text="Hello World!"
+                android:textSize="20dip"/>
+
+            <TextView
+                android:id="@+id/tv_text6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dip"
+                android:text="Hello World!"
+                android:textSize="20dip"/>
+
+            <TextView
+                android:id="@+id/tv_text7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dip"
+                android:text="Hello World!"
+                android:textSize="20dip"/>
+
+            <TextView
+                android:id="@+id/tv_text8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dip"
+                android:text="Hello World!"
+                android:textSize="20dip"/>
+
+            <TextView
+                android:id="@+id/tv_text9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dip"
+                android:text="Hello World!"
+                android:textSize="20dip"/>
+
+            <TextView
+                android:id="@+id/tv_text10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dip"
+                android:text="Hello World!"
+                android:textSize="20dip"/>
+
+            <TextView
+                android:id="@+id/tv_text11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dip"
+                android:text="Hello World!"
+                android:textSize="20dip"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
